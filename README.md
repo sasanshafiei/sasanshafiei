@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I’m Sasan Shafiei! 👋
 
-<!--
-**sasanshafiei/sasanshafiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ Turning coffee into clean code and bright ideas  
+🎯 **Computer & Software Engineer** since 2022  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- 💻 **C++** systems & performance  
+- ☕ **Java** application design  
+- 🐍 **Python** scripting & data automation  
+
+---
+
+## 📜 Certifications & Badges
+![Network Certified](https://img.shields.io/badge/Network-Certified-blue)  
+![Machine Learning Jr](https://img.shields.io/badge/Machine_Learning-Junior-yellow)  
+![Backend Developer](https://img.shields.io/badge/Backend-Developer-green)  
+
+---
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sasan_Shafiee-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasan-shafiee-76054233b/)  
+
+---
+
+> “Building tomorrow’s tech, one commit at a time.”  
