@@ -53,7 +53,7 @@
 ---
 
 ## 📈 Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sasanshafiei&theme=github)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasanshafiei&theme=github&hide_border=true" alt="Sasan’s GitHub Activity Graph" />
 
 ---
 
