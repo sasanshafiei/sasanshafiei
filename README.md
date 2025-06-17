@@ -15,7 +15,7 @@
 ## 📜 Certifications & Badges
 ![Network Certified](https://img.shields.io/badge/Network-Certified-blue)  
 ![Machine Learning Jr](https://img.shields.io/badge/Machine_Learning-Junior-yellow)  
-![Backend Developer](https://img.shields.io/badge/Backend-Developer-green)  
+![Backend Developer Jr ](https://img.shields.io/badge/Backend-Developer-green)  
 
 ---
 
