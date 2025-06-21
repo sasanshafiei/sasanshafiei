@@ -61,8 +61,6 @@
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sasan_Shafiee-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasan-shafiee-76054233b/)
 
-
-
 ---
 
 ⭐️ If you like my profile, give it a star: [sasanshafiei](https://github.com/sasanshafiei/sasanshafiei)
