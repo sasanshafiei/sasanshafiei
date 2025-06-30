@@ -16,8 +16,7 @@
 ## 🔥 Current Focus
 - 💻 **C++** systems & performance  
 - ☕ **Java** application design  
-- 🐍 **Python** scripting & data automation  
-
+- 🐍 **Python** scripting 
 ---
 
 ## 📜 Certifications & Badges
