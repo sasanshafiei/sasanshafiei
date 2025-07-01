@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sasanshafiei)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sasanshafiei.sasanshafiei)
 
-🔒 **Computer & Software Engineer** since 2022  
+🔒 **Computer & Software Engineer** student  
 ☕ Turning coffee into clean code and bright ideas  
 
 ---
