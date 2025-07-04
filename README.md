@@ -11,12 +11,10 @@
 ---
 
 
-
-
 ## 🔥 Current Focus
 - 💻 **C++** systems & performance  
 - ☕ **Java** application design  
-- 🐍 **Python** scripting 
+- 🐍 **Python** scripting & **PyTorch** experimentation
 ---
 
 ## 📜 Certifications & Badges
@@ -32,6 +30,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white)
 
 ### Dev & Ops
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
