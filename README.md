@@ -19,9 +19,10 @@
 ---
 
 ## 📜 Certifications & Badges
+![Backend-Developer](https://img.shields.io/badge/Backend-Developer-green)
+![Front_End-HTML/CSS/JS](https://img.shields.io/badge/Front_End-HTML%2FCSS%2FJS-orange)
 ![Network-Certified](https://img.shields.io/badge/Network-Certified-blue)
 ![Machine_Learning-Junior](https://img.shields.io/badge/Machine_Learning-Junior-yellow)
-![Backend-Developer](https://img.shields.io/badge/Backend-Developer-green)
 
 ---
 
@@ -31,7 +32,10 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 
 ### Dev & Ops
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
