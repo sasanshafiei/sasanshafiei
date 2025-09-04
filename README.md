@@ -22,7 +22,7 @@
 ![Backend-Developer](https://img.shields.io/badge/Backend-Developer-green)
 ![Front_End-HTML/CSS/JS](https://img.shields.io/badge/Front_End-HTML%2FCSS%2FJS-orange)
 ![Network-Certified](https://img.shields.io/badge/Network-Certified-blue)
-![Machine_Learning-Junior](https://img.shields.io/badge/Machine_Learning-Junior-yellow)
+
 
 ---
 
